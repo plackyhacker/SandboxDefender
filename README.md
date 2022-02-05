@@ -6,7 +6,7 @@ If you do use any of the code in these repositories **keep it legal!**
 
 # Introduction
 
-This code was written after reading [Sandboxing Antimalware Products for Fun and Profit](https://elastic.github.io/security-research/whitepapers/2022/02/02.sandboxing-antimalware-products-for-fun-and-profit/article/) by **Elastic Security Research**. I am a little bit late to the party it would seem, the article was made public on the 02/02/22 (3 days ago as of writing), and [Martin Ingesens TokenStomp](https://github.com/MartinIngesen/TokenStomp) was posted 04/02/22. MUST code faster!
+This code was written after reading [Sandboxing Antimalware Products for Fun and Profit](https://elastic.github.io/security-research/whitepapers/2022/02/02.sandboxing-antimalware-products-for-fun-and-profit/article/) by **Elastic Security Research**. I am a little bit late to the party it would seem, the article was made public on the 02/02/22 (3 days ago as of writing), and [Martin Ingesens' TokenStomp](https://github.com/MartinIngesen/TokenStomp) was posted 04/02/22. MUST code faster!
 
 Anyway, writing this code was fun.
 
