@@ -19,6 +19,8 @@ The technique is very simple:
 - Set the Defender token Integrity level to Untrusted.
 - Do bad things... legally of course!
 
+The main part of the code is [here](https://github.com/plackyhacker/SandboxDefender/blob/main/SandboxDefender/Program.cs)
+
 # Example
 
 Execution of the code is shown below (then executing mimikatz after defender is sandboxed):
