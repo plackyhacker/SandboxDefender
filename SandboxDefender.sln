@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxDefender", "KillDefender\SandboxDefender.csproj", "{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Debug|x64.ActiveCfg = Debug|x64
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Debug|x64.Build.0 = Debug|x64
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Release|x64.ActiveCfg = Release|x64
+		{60BE5D0C-3594-43F4-9B3F-DF5126BCD8FA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D45F2A4-8A13-495C-B3B5-B907538E8F4C}
+	EndGlobalSection
+EndGlobal
