@@ -52,3 +52,10 @@ mimikatz #
 
 # Nice Pictures
 
+This is Defender before the sandboxing (in Process Hacker):
+
+![pre](https://github.com/plackyhacker/SandboxDefender/blob/main/images/pre.png?raw=true)
+
+This is Defender afetr the sandboxing (in Process Hacker):
+
+![pre](https://github.com/plackyhacker/SandboxDefender/blob/main/images/post.png?raw=true)
