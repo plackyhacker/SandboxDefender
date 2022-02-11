@@ -57,7 +57,7 @@ namespace SandboxDefender
             // do naughty stuff
 
             // fix defender - TODO fix codez! xD
-            SandboxDefender(true);
+            //SandboxDefender(true);
 
             Console.WriteLine("[+] Done... Have a nice day!");
         }
